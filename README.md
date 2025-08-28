@@ -10,7 +10,7 @@ best way to test the app functionality with preview is to push the changes (depl
 
 - approaching java script [1](https://www.youtube.com/watch?v=xB3ZmUH6GqU&ab_channel=CatherineLi) || [2](https://www.youtube.com/watch?v=X_FfHxMkkos&ab_channel=PhillipChoi)
 - [some foundation in java script](https://www.youtube.com/watch?v=ogdtB_m6G5g&ab_channel=CleverProgrammer)
-- [JS libraries list](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
+- [JS libraries list WIKI](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
 
 #### Node JS - Overview
 
