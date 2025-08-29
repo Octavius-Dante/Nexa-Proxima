@@ -9,6 +9,8 @@ in command pallette - type ">" then type "storyboard"
 best way to test the app functionality with preview is to push the changes (deploy) to the app and view the app in mobile or ssam app device.
 
 
+[Referred here for data table option](https://help.sap.com/doc/3642933ef2e1478fb1578ef2acba4ae9/Latest/en-US/reference/schemadoc/Page/SectionedTable/Container/DataTable.schema.html)
+
 
 </br> 
 
