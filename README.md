@@ -14,7 +14,7 @@ best way to test the app functionality with preview is to push the changes (depl
 
 </br> 
 
-#### Applications - [code samples](https://github.com/SAP-samples/cloud-mdk-samples/tree/main/Showcase_Apps)
+#### Applications - [code samples 0](https://github.com/SAP-samples/cloud-mdk-tutorial-samples) || [code samples 1](https://github.com/SAP-samples/cloud-mdk-samples/tree/main/Showcase_Apps)
 
 - FormCell Inline Validation
 - Home Screen Widget
