@@ -30,6 +30,9 @@ best way to test the app functionality with preview is to push the changes (depl
 
 </br> </br>
 
+[Code sample learning](https://github.com/Octavius-Dante/Nexa-Proxima/tree/main/Code_Sample_learning) <-- Work in Progress 
+
+</br> </br>
 
 ### Common problems in MDK - development and deployment - git push and git pull
 
