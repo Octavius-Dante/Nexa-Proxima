@@ -30,6 +30,14 @@ best way to test the app functionality with preview is to push the changes (depl
 
 </br> </br>
 
+
+### Common problems in MDK - development and deployment - git push and git pull
+
+- DEPLOYMENT - during deployment when right click - MDK deploy is pressed it should as deploy as mobile / cloud foundry app / etc choose [Mobile] and next option mobile service standard / ne0 / etc [standard] next option should be whic hbuild want deploy here usually it should ask, but if it doesnt ask - DELETE "Project.json" file this could cause issue you may deploy to wrong MDK build if it was not chosen 
+ 
+- BEST PRACISE - always pull from the MASTER or MAIN version then make the needed changes then deploy it to the Necessry build or personal build
+
+
 <!--
 
 </br> </br>
