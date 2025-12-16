@@ -11,6 +11,7 @@
 - [The Complete SAP Analytics Cloud Course 2025 4H](https://www.udemy.com/course/sap-analytics-cloud-sac/?couponCode=CM251216G1)
 - [sap-analytics-cloud-master-class/ 10H](https://www.udemy.com/course/sap-analytics-cloud-master-class/)
 
+</BR></BR>
 
 ## UDEMY LIST FOR DATASPHERE - Training - udemy
 
@@ -19,6 +20,7 @@
 - [sap-dwc-masterclass - BEGINER](https://www.udemy.com/course/sap-dwc-masterclass/)
 - [sap_datasphere- BEGINEE](https://www.udemy.com/course/sap_datasphere/)
 
+</BR></BR>
 
 ## BW4 Hana - Training - udemy
 
