@@ -17,8 +17,8 @@
 
 </BR>
 
-- [sap-dwc-masterclass - BEGINER](https://www.udemy.com/course/sap-dwc-masterclass/)
-- [sap_datasphere- BEGINEE](https://www.udemy.com/course/sap_datasphere/)
+- [SAP DWC/Datasphere Masterclass | Hands on Training [Updated] - BEGINER 9.4h](https://www.udemy.com/course/sap-dwc-masterclass/)
+- [SAP Datasphere: Beginner-Friendly with Hands-On Scenarios- BEGINEE 11.7h](https://www.udemy.com/course/sap_datasphere/) 
 
 </BR></BR>
 
