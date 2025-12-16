@@ -1,4 +1,23 @@
 # Nexa-Proxima
+</BR></BR>
+
+
+
+## UDEMY - LIST FOR SAC 
+
+
+
+
+</BR>
+
+## UDEMY LIST FOR DATASPHERE
+
+- [sap-dwc-masterclass - BEGINER](https://www.udemy.com/course/sap-dwc-masterclass/)
+
+</BR>
+
+<!--
+
 BTP SAP MDK (Mobile Development Kit)
 
 
@@ -7,6 +26,7 @@ Bring up story board
 in command pallette - type ">" then type "storyboard"
 
 best way to test the app functionality with preview is to push the changes (deploy) to the app and view the app in mobile or ssam app device.
+
 
 
 [Referred here for data table option](https://help.sap.com/doc/3642933ef2e1478fb1578ef2acba4ae9/Latest/en-US/reference/schemadoc/Page/SectionedTable/Container/DataTable.schema.html)
@@ -40,6 +60,7 @@ best way to test the app functionality with preview is to push the changes (depl
  
 - BEST PRACISE - always pull from the MASTER or MAIN version then make the needed changes then deploy it to the Necessry build or personal build
 
+-->
 
 <!--
 
