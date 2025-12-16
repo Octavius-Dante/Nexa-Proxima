@@ -5,7 +5,10 @@
 
 ## UDEMY - LIST FOR SAC 
 
-
+- [sap-analytics-cloud-zero-to-hero 15H](https://www.udemy.com/course/sap-analytics-cloud-zero-to-hero/)
+- [sac-planning-reporting-complete-hands-on-training 82h](https://www.udemy.com/course/sac-planning-reporting-complete-hands-on-training/)
+- [The Complete SAP Analytics Cloud Course 2025 4H](https://www.udemy.com/course/sap-analytics-cloud-sac/?couponCode=CM251216G1)
+- [sap-analytics-cloud-master-class/ 10H](https://www.udemy.com/course/sap-analytics-cloud-master-class/)
 
 
 </BR>
@@ -16,6 +19,16 @@
 - [sap_datasphere- BEGINEE](https://www.udemy.com/course/sap_datasphere/)
 
 </BR>
+
+
+- [BW4 HANA TRAINING](https://www.udemy.com/course/sap-bw4hana-essential-training-complete-hands-on-course/)
+- [BW4 HANA](https://www.udemy.com/course/sapbw4hana/)
+
+
+
+
+
+
 
 <!--
 
